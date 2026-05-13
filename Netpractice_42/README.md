@@ -44,19 +44,19 @@ You can then choose between:
 Training → practice all 10 levels at your own pace
 Evaluation → generate a random network configuration (levels 7–10) similar to the evaluation environment
 
-When a level is completed, a button named "Get Config" will appear and you will be able to download the .json of each level for evaluation.
+When a level is completed, a button named "Get my config" will appear and you will be able to download the .json of each level for evaluation.
 
 --------------------------------
 ☆ Submission details ☆
 --------------------------------
 
-According to the evaluation sheet, there has to be 10 exported configuration files (one per level), and they must be located at the repository root, + this README.md.
+According to the evaluation sheet, there has to be 10 exported configuration files (one per level), and they must be located at the repository root, config files + this README.md.
 
 --------------------------------
 ☆ Resources ☆
 --------------------------------
 
-(!) Introduction to Networking * Hack the Box:
+(!) Introduction to Networking * Hack the Box *
 Covers concepts such as:
 
 	✧ TCP/IP addressing
@@ -68,7 +68,7 @@ Covers concepts such as:
 	✧ MAC addresses
 	✧ common protocols (HTTP, HTTPS, FTP, TCP)
 
-(!) You suck at subnetting * NetworkChuck
+(!) You suck at subnetting * NetworkChuck *
 Topics covered:
 
 	✧ TCP/IP addressing
@@ -77,7 +77,7 @@ Topics covered:
 	✧ IPv4 vs IPv6
 	✧ CIDR notation
 
-(!) NetPractice: An Intro to IP Addresses and Subnets * Thuggonaut
+(!) NetPractice: An Intro to IP Addresses and Subnets * Thuggonaut *
 Focuses on:
 
 	✧ IP addressing
@@ -91,5 +91,5 @@ Focuses on:
 
 AI tools were occasionally used to:
 
-vVerify the correctness of network configurations.
+Verify the correctness of network configurations.
 Clarify specific networking concepts during the learning process.
